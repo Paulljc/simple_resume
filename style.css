@@ -1,0 +1,79 @@
+.wrapper {
+    margin: 20px 60px;
+    padding: 40px;
+    border: 1px solid #fff;
+    background-color: #ddd;
+    font-family: "Microsoft Yahei", Helvetica, Arial, sans-serif;
+}
+address ul {
+    list-style: none;
+    float: right;
+    padding: 0;
+}
+h3,strong,a {
+    color: rgb(102, 121, 223);
+}
+.name {
+    display: inline-block;
+    margin-left: 10px;
+}
+.avatar img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.avatar{
+    display: inline-block;
+    text-align: center;
+}
+.contact {
+    display: inline-block;
+    font-size: 14px;
+    height: 100px;
+    float: right;
+    margin-top: 10px;
+}
+.content {
+    display: inline-block;
+    width: 1073px;
+}
+.left {
+    display: inline-block;
+    width: 48%;
+    float: left;
+}
+.right {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    margin-left: 10px;
+}
+.project dl dt span {
+    background-color: rgb(233,236,251);
+    width: 6em;
+    color: rgb(102, 121, 223);
+    display: inline-block;
+    text-align: center;
+    font-size: .8em;
+    margin-left: 1em;
+    line-height: 1.5em;
+    border-radius: .75em;
+}
+.key-point {
+    background: rgb(102, 121, 223);
+    color: white;
+    padding: 2px 2px;
+    margin: 6px 0 8px;
+    display: inline-block;
+    font-size: .875em;
+}
+.icon img {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-bottom: -10px;
+}
+.icon h3 {
+    display: inline;
+}
